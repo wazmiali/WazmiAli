@@ -1,0 +1,1 @@
+ cuteness is a subjective term describing a type of attractivesness commonly associated with youth and apperance , as well as ascientific concept and analytical model in ethology, first introduce by Kond=rad Lorenz.loorenz proposed the of baby schema (kindchenschema) a set of facial and body features that make acreture apmmvmn te" and actuive (realease)
