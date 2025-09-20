@@ -1,11 +1,15 @@
-💫 About Me
+---
 
-🎓 I'm a **3rd-year Artificial Intelligence & Machine Learning (AIML) student** passionate about technology and innovation.  
+# 💫 About Me
 
-💻 Skilled in **Data Structures & Algorithms (C++)** and experienced in building **web applications**.  
+🎓 I'm a **3rd-year Artificial Intelligence & Machine Learning (AIML) student** passionate about technology and innovation.
 
-🐍 Enthusiastic about **Frontend backend development** with, working on RESTful APIs and database integrations.  
+💻 Skilled in **Data Structures & Algorithms (C++)** and experienced in building **web applications**.
 
-🤖 Currently diving deep into **AI, Machine Learning, and Deep Learning**, aiming to develop real-world intelligent systems.  
+🐍 Enthusiastic about **frontend & backend development**, working on **RESTful APIs** and **database integrations**.
 
-🚀 Always learning, always building — passionate about **coding, problem-solving, and continuous growth**. 
+🤖 Currently diving deep into **AI, Machine Learning, and Deep Learning**, aiming to develop real-world intelligent systems.
+
+🚀 Always learning, always building — passionate about **coding, problem-solving, and continuous growth**.
+
+---
