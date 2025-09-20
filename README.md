@@ -13,12 +13,6 @@
 
 ---
 
-## 📌 Professional Summary
-Enthusiastic software engineering student with skills in **AI, web development, and data analysis**.  
-Proficient in **Python, C++, and Java**, with experience building **user-focused applications**.
-
----
-
 ## 🎓 Education
 - **B.Tech – AI & ML**, GL Bajaj Institute of Technology & Management, Greater Noida *(2024 - 2027)*  
 - **Diploma – CSE**, Quantum University, Roorkee *(2021 - 2024)* | **CGPA: 8.31**
@@ -43,8 +37,8 @@ Proficient in **Python, C++, and Java**, with experience building **user-focused
 **Web Development Intern, Bharat Intern** *(May – Jun 2024)*  
 - Developed responsive websites using PHP & JavaScript.  
 - Created reusable components and improved code quality.  
-- Engaged in code reviews & followed best practices.  
-
+- Engaged in code reviews & followed best practices.
+  
 ---
 
 ## 🛠️ Technical Skills
