@@ -2,6 +2,8 @@
 
 # 💫 About Me
 
+---
+
 🎓 I'm a **3rd-year Artificial Intelligence & Machine Learning (AIML) student** passionate about technology and innovation.
 
 💻 Skilled in **Data Structures & Algorithms (C++)** and experienced in building **web applications**.
