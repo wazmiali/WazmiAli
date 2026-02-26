@@ -20,5 +20,11 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=wazmiali&label=Profile%20Views&color=0e75b6&style=flat)
 
-![Profile Views](https://komarev.com/ghpvc/?username=wazmiali&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wazmiali&show_icons=true)
+
+# Hi 👋 I'm Wazmi Ali
+
+![Profile Views](https://komarev.com/ghpvc/?username=wazmiali&label=Profile%20Views&color=blue&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wazmiali&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wazmiali&theme=tokyonight)
