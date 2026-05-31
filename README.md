@@ -1,5 +1,4 @@
 # 💫 About Me
----
 
 🎓 I'm a **BTech 3rd-year Artificial Intelligence & Machine Learning (AIML) student** passionate about technology and innovation.
 
