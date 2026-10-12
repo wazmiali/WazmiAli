@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 Hi, I'm Wazmi Ali
 
 🎓 Final-year **B.Tech student specializing in Artificial Intelligence & Machine Learning (AIML)**, passionate about building intelligent solutions.
 
