@@ -7,6 +7,7 @@
 🐍 Exploring **Python, machine learning algorithms, and data-driven applications**.
 
 💻 Strong interest in **Data Structures & Algorithms using C++**, problem-solving, and efficient coding.
+    Aspiring
 
 Aspiring I/ML Engineer, continuously learning, building projects, and turning innovative ideas into practical solutions.
 ---
